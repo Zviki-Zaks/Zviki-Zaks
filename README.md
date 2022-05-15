@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Zviki.</h1>
-- 🌱 I continue to learn and develop my skills in **React.js, Vue.js**
+<h1 align="center">Hi, I'm Zviki.</h1>
+
+- 🔭 I’m currently looking for my first job in development
+- 🌱 I continue to learn and develop my skills in **React.js**, **Vue.js**
 
 - 📫 How to reach me **zvikizax@gmail.com**
 
