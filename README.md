@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Zviki.</h1>
+<h1 align="center">Hi, I'm Zviki :sunglasses:</h1>
 
 - 🔭 I’m currently looking for my first job in development
 - 🌱 I continue to learn and develop my skills in **React.js**, **Vue.js**
