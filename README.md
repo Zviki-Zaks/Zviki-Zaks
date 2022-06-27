@@ -6,7 +6,7 @@
 - :man_technologist: I’m currently looking for my first job in **web development**
 - :man_teacher: I continue to learn and develop my skills in **React.js**, **Vue.js**
 
-- 📫 How to reach me **zvikizax@gmail.com**
+- 📫 How to reach me: **zvikizax@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
