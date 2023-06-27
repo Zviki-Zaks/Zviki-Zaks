@@ -4,7 +4,7 @@
 ## About Me
 
 - :man_technologist: I’m currently looking for a new job in **web development**
-- :man_teacher: I continue to learn and develop my skills in **Next.js**
+- :man_teacher: I continue to learn and develop my skills in **Next.js** & **Testing**
 
 - 📫 How to reach me: **zvikizax@gmail.com**
 
